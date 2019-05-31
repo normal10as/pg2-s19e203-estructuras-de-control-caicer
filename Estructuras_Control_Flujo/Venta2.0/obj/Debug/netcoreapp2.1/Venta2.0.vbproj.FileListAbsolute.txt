@@ -1,0 +1,10 @@
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\Venta2.0\bin\Debug\netcoreapp2.1\Venta2.0.deps.json
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\Venta2.0\bin\Debug\netcoreapp2.1\Venta2.0.runtimeconfig.json
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\Venta2.0\bin\Debug\netcoreapp2.1\Venta2.0.runtimeconfig.dev.json
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\Venta2.0\bin\Debug\netcoreapp2.1\Venta2.0.dll
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\Venta2.0\bin\Debug\netcoreapp2.1\Venta2.0.pdb
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\Venta2.0\obj\Debug\netcoreapp2.1\Venta2.0.vbproj.CoreCompileInputs.cache
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\Venta2.0\obj\Debug\netcoreapp2.1\Venta2.0.AssemblyInfoInputs.cache
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\Venta2.0\obj\Debug\netcoreapp2.1\Venta2.0.AssemblyInfo.vb
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\Venta2.0\obj\Debug\netcoreapp2.1\Venta2.0.dll
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\Venta2.0\obj\Debug\netcoreapp2.1\Venta2.0.pdb

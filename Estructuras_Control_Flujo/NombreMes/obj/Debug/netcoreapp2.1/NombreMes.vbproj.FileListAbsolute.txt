@@ -1,0 +1,10 @@
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\NombreMes\bin\Debug\netcoreapp2.1\NombreMes.deps.json
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\NombreMes\bin\Debug\netcoreapp2.1\NombreMes.runtimeconfig.json
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\NombreMes\bin\Debug\netcoreapp2.1\NombreMes.runtimeconfig.dev.json
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\NombreMes\bin\Debug\netcoreapp2.1\NombreMes.dll
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\NombreMes\bin\Debug\netcoreapp2.1\NombreMes.pdb
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\NombreMes\obj\Debug\netcoreapp2.1\NombreMes.vbproj.CoreCompileInputs.cache
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\NombreMes\obj\Debug\netcoreapp2.1\NombreMes.AssemblyInfoInputs.cache
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\NombreMes\obj\Debug\netcoreapp2.1\NombreMes.AssemblyInfo.vb
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\NombreMes\obj\Debug\netcoreapp2.1\NombreMes.dll
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\NombreMes\obj\Debug\netcoreapp2.1\NombreMes.pdb

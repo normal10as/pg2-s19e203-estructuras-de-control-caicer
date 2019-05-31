@@ -1,0 +1,10 @@
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\Angulo\bin\Debug\netcoreapp2.1\Angulo.deps.json
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\Angulo\bin\Debug\netcoreapp2.1\Angulo.runtimeconfig.json
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\Angulo\bin\Debug\netcoreapp2.1\Angulo.runtimeconfig.dev.json
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\Angulo\bin\Debug\netcoreapp2.1\Angulo.dll
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\Angulo\bin\Debug\netcoreapp2.1\Angulo.pdb
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\Angulo\obj\Debug\netcoreapp2.1\Angulo.vbproj.CoreCompileInputs.cache
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\Angulo\obj\Debug\netcoreapp2.1\Angulo.AssemblyInfoInputs.cache
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\Angulo\obj\Debug\netcoreapp2.1\Angulo.AssemblyInfo.vb
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\Angulo\obj\Debug\netcoreapp2.1\Angulo.dll
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\Angulo\obj\Debug\netcoreapp2.1\Angulo.pdb

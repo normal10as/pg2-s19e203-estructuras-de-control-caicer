@@ -1,0 +1,11 @@
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\Tercero\bin\Debug\netcoreapp2.1\Tercero.deps.json
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\Tercero\bin\Debug\netcoreapp2.1\Tercero.runtimeconfig.json
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\Tercero\bin\Debug\netcoreapp2.1\Tercero.runtimeconfig.dev.json
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\Tercero\bin\Debug\netcoreapp2.1\Tercero.dll
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\Tercero\bin\Debug\netcoreapp2.1\Tercero.pdb
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\Tercero\obj\Debug\netcoreapp2.1\Tercero.vbprojAssemblyReference.cache
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\Tercero\obj\Debug\netcoreapp2.1\Tercero.vbproj.CoreCompileInputs.cache
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\Tercero\obj\Debug\netcoreapp2.1\Tercero.AssemblyInfoInputs.cache
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\Tercero\obj\Debug\netcoreapp2.1\Tercero.AssemblyInfo.vb
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\Tercero\obj\Debug\netcoreapp2.1\Tercero.dll
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\Tercero\obj\Debug\netcoreapp2.1\Tercero.pdb
