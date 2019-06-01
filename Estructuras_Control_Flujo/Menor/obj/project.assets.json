@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\CaicerNotebook\\source\\repos\\Estructuras_Control_Flujo\\Menor\\Menor.vbproj",
+      "projectUniqueName": "C:\\Users\\CaicerNotebook\\source\\repos\\normal10as\\pg2-s19e203-estructuras-de-control-caicer\\Estructuras_Control_Flujo\\Menor\\Menor.vbproj",
       "projectName": "Menor",
-      "projectPath": "C:\\Users\\CaicerNotebook\\source\\repos\\Estructuras_Control_Flujo\\Menor\\Menor.vbproj",
+      "projectPath": "C:\\Users\\CaicerNotebook\\source\\repos\\normal10as\\pg2-s19e203-estructuras-de-control-caicer\\Estructuras_Control_Flujo\\Menor\\Menor.vbproj",
       "packagesPath": "C:\\Users\\CaicerNotebook\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\CaicerNotebook\\source\\repos\\Estructuras_Control_Flujo\\Menor\\obj\\",
+      "outputPath": "C:\\Users\\CaicerNotebook\\source\\repos\\normal10as\\pg2-s19e203-estructuras-de-control-caicer\\Estructuras_Control_Flujo\\Menor\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
