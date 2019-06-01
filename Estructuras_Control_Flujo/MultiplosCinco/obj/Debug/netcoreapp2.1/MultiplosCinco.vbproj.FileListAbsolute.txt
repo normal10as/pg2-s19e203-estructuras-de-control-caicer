@@ -1,0 +1,11 @@
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\MultiplosCinco\bin\Debug\netcoreapp2.1\MultiplosCinco.deps.json
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\MultiplosCinco\bin\Debug\netcoreapp2.1\MultiplosCinco.runtimeconfig.json
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\MultiplosCinco\bin\Debug\netcoreapp2.1\MultiplosCinco.runtimeconfig.dev.json
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\MultiplosCinco\bin\Debug\netcoreapp2.1\MultiplosCinco.dll
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\MultiplosCinco\bin\Debug\netcoreapp2.1\MultiplosCinco.pdb
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\MultiplosCinco\obj\Debug\netcoreapp2.1\MultiplosCinco.vbprojAssemblyReference.cache
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\MultiplosCinco\obj\Debug\netcoreapp2.1\MultiplosCinco.vbproj.CoreCompileInputs.cache
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\MultiplosCinco\obj\Debug\netcoreapp2.1\MultiplosCinco.AssemblyInfoInputs.cache
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\MultiplosCinco\obj\Debug\netcoreapp2.1\MultiplosCinco.AssemblyInfo.vb
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\MultiplosCinco\obj\Debug\netcoreapp2.1\MultiplosCinco.dll
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\MultiplosCinco\obj\Debug\netcoreapp2.1\MultiplosCinco.pdb

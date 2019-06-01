@@ -1,0 +1,11 @@
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\ConversionMedidas\bin\Debug\netcoreapp2.1\ConversionMedidas.deps.json
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\ConversionMedidas\bin\Debug\netcoreapp2.1\ConversionMedidas.runtimeconfig.json
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\ConversionMedidas\bin\Debug\netcoreapp2.1\ConversionMedidas.runtimeconfig.dev.json
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\ConversionMedidas\bin\Debug\netcoreapp2.1\ConversionMedidas.dll
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\ConversionMedidas\bin\Debug\netcoreapp2.1\ConversionMedidas.pdb
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\ConversionMedidas\obj\Debug\netcoreapp2.1\ConversionMedidas.vbprojAssemblyReference.cache
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\ConversionMedidas\obj\Debug\netcoreapp2.1\ConversionMedidas.vbproj.CoreCompileInputs.cache
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\ConversionMedidas\obj\Debug\netcoreapp2.1\ConversionMedidas.AssemblyInfoInputs.cache
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\ConversionMedidas\obj\Debug\netcoreapp2.1\ConversionMedidas.AssemblyInfo.vb
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\ConversionMedidas\obj\Debug\netcoreapp2.1\ConversionMedidas.dll
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\ConversionMedidas\obj\Debug\netcoreapp2.1\ConversionMedidas.pdb
