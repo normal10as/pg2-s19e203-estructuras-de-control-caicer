@@ -1,0 +1,10 @@
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\SumatoriaCuadrados\bin\Debug\netcoreapp2.1\SumatoriaCuadrados.deps.json
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\SumatoriaCuadrados\bin\Debug\netcoreapp2.1\SumatoriaCuadrados.runtimeconfig.json
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\SumatoriaCuadrados\bin\Debug\netcoreapp2.1\SumatoriaCuadrados.runtimeconfig.dev.json
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\SumatoriaCuadrados\bin\Debug\netcoreapp2.1\SumatoriaCuadrados.dll
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\SumatoriaCuadrados\bin\Debug\netcoreapp2.1\SumatoriaCuadrados.pdb
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\SumatoriaCuadrados\obj\Debug\netcoreapp2.1\SumatoriaCuadrados.vbproj.CoreCompileInputs.cache
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\SumatoriaCuadrados\obj\Debug\netcoreapp2.1\SumatoriaCuadrados.AssemblyInfoInputs.cache
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\SumatoriaCuadrados\obj\Debug\netcoreapp2.1\SumatoriaCuadrados.AssemblyInfo.vb
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\SumatoriaCuadrados\obj\Debug\netcoreapp2.1\SumatoriaCuadrados.dll
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\SumatoriaCuadrados\obj\Debug\netcoreapp2.1\SumatoriaCuadrados.pdb

@@ -1,0 +1,11 @@
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\Primos\bin\Debug\netcoreapp2.1\Primos.deps.json
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\Primos\bin\Debug\netcoreapp2.1\Primos.runtimeconfig.json
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\Primos\bin\Debug\netcoreapp2.1\Primos.runtimeconfig.dev.json
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\Primos\bin\Debug\netcoreapp2.1\Primos.dll
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\Primos\bin\Debug\netcoreapp2.1\Primos.pdb
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\Primos\obj\Debug\netcoreapp2.1\Primos.vbprojAssemblyReference.cache
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\Primos\obj\Debug\netcoreapp2.1\Primos.vbproj.CoreCompileInputs.cache
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\Primos\obj\Debug\netcoreapp2.1\Primos.AssemblyInfoInputs.cache
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\Primos\obj\Debug\netcoreapp2.1\Primos.AssemblyInfo.vb
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\Primos\obj\Debug\netcoreapp2.1\Primos.dll
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\Primos\obj\Debug\netcoreapp2.1\Primos.pdb

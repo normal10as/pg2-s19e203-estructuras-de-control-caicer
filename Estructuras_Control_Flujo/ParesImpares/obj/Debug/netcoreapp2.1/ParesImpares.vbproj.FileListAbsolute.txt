@@ -1,0 +1,10 @@
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\ParesImpares\bin\Debug\netcoreapp2.1\ParesImpares.deps.json
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\ParesImpares\bin\Debug\netcoreapp2.1\ParesImpares.runtimeconfig.json
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\ParesImpares\bin\Debug\netcoreapp2.1\ParesImpares.runtimeconfig.dev.json
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\ParesImpares\bin\Debug\netcoreapp2.1\ParesImpares.dll
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\ParesImpares\bin\Debug\netcoreapp2.1\ParesImpares.pdb
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\ParesImpares\obj\Debug\netcoreapp2.1\ParesImpares.vbproj.CoreCompileInputs.cache
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\ParesImpares\obj\Debug\netcoreapp2.1\ParesImpares.AssemblyInfoInputs.cache
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\ParesImpares\obj\Debug\netcoreapp2.1\ParesImpares.AssemblyInfo.vb
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\ParesImpares\obj\Debug\netcoreapp2.1\ParesImpares.dll
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\ParesImpares\obj\Debug\netcoreapp2.1\ParesImpares.pdb

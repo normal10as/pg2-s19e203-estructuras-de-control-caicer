@@ -1,0 +1,10 @@
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\Descuento\bin\Debug\netcoreapp2.1\Descuento.deps.json
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\Descuento\bin\Debug\netcoreapp2.1\Descuento.runtimeconfig.json
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\Descuento\bin\Debug\netcoreapp2.1\Descuento.runtimeconfig.dev.json
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\Descuento\bin\Debug\netcoreapp2.1\Descuento.dll
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\Descuento\bin\Debug\netcoreapp2.1\Descuento.pdb
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\Descuento\obj\Debug\netcoreapp2.1\Descuento.vbproj.CoreCompileInputs.cache
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\Descuento\obj\Debug\netcoreapp2.1\Descuento.AssemblyInfoInputs.cache
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\Descuento\obj\Debug\netcoreapp2.1\Descuento.AssemblyInfo.vb
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\Descuento\obj\Debug\netcoreapp2.1\Descuento.dll
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\Descuento\obj\Debug\netcoreapp2.1\Descuento.pdb

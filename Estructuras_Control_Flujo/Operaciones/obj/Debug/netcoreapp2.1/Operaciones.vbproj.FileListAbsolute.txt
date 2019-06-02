@@ -1,0 +1,11 @@
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\Operaciones\bin\Debug\netcoreapp2.1\Operaciones.deps.json
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\Operaciones\bin\Debug\netcoreapp2.1\Operaciones.runtimeconfig.json
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\Operaciones\bin\Debug\netcoreapp2.1\Operaciones.runtimeconfig.dev.json
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\Operaciones\bin\Debug\netcoreapp2.1\Operaciones.dll
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\Operaciones\bin\Debug\netcoreapp2.1\Operaciones.pdb
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\Operaciones\obj\Debug\netcoreapp2.1\Operaciones.vbprojAssemblyReference.cache
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\Operaciones\obj\Debug\netcoreapp2.1\Operaciones.vbproj.CoreCompileInputs.cache
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\Operaciones\obj\Debug\netcoreapp2.1\Operaciones.AssemblyInfoInputs.cache
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\Operaciones\obj\Debug\netcoreapp2.1\Operaciones.AssemblyInfo.vb
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\Operaciones\obj\Debug\netcoreapp2.1\Operaciones.dll
+C:\Users\CaicerNotebook\source\repos\Estructuras_Control_Flujo\Operaciones\obj\Debug\netcoreapp2.1\Operaciones.pdb
